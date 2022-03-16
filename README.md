@@ -1,2 +1,3 @@
 # OSSP_test
 220316 git commit test
+220316 git fetch, pull test
